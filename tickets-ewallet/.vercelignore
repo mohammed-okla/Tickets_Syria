@@ -1,0 +1,12 @@
+node_modules
+.env
+.env.local
+.env.production.local
+.env.development.local
+csb-sw.js
+.codesandbox
+.vscode
+.DS_Store
+*.log
+dist
+.vercel
